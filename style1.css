@@ -1,0 +1,27 @@
+body,html {margin: 0; width: 100%; height: 100%; font-family: SF; }
+@font-face {font-family: segoe; src: url('Segoe UI Bold.ttf') format('opentype'); font-weight: 100;}
+
+  div {
+  	background-color: rgb(113,162,186);
+	height: auto;
+  	width: 500px;
+ 	margin: auto;
+	padding-bottom: 1px;
+}
+  h1 {
+  text-align: center;
+  font-family:segoe;
+  color: rgb(255,255,255);
+
+}
+
+p{
+  text-indent:20px;
+  font-family:Arial, Helvetica, Sans-Serif;
+  font-weight: 800;
+  color: rgb(255,255,255);
+}
+p:hover{
+  transform: scale(2.0);
+  color: (240,240,240);
+}
