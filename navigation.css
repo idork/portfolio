@@ -7,22 +7,37 @@ ul {
 
 li {
 	display: inline;
-
+}
+#nav {
+  	background-color:black;
+	height: auto;
+	padding-top:.5px;
+	padding-bottom: .5px;
+	text-align: center;
 }
 
+#cntct{
+	font-size: 20px;
+}
 li a {
+	transition: all 0.1s;
   	width: 10px;
   	text-indent:20px;
 	text-align: center;
-	padding: 20px 10px;
-  	font-family:Arial, Helvetica, Sans-Serif;
+	padding: 20px;
+  	font-family: segoe;
 	font-size: 20px;
 	text-decoration: none;
-  	font-weight: 800;
+  	font-weight: 700;
  	/*background-color: black;*/
- 	color: rgb(255,255,255);
+ 	color: white;
+	
 }
 a:hover {
   	letter-spacing: 1px;
 	transition: all 0.1s;
+	padding-left: 25px;
+	padding-right: 25px;
+	
+	 
 }
