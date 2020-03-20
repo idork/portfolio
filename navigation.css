@@ -16,8 +16,8 @@ li {
 	text-align: center;
 }
 
-#cntct{
-	font-size: 20px;
+p{
+	margin-left: 20px;
 }
 li a {
 	transition: all 0.1s;
@@ -38,6 +38,4 @@ a:hover {
 	transition: all 0.1s;
 	padding-left: 25px;
 	padding-right: 25px;
-	
-	 
 }
