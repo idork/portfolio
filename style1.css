@@ -4,7 +4,7 @@ body,html {
 	height: 100%; 
 	font-family: segoe;
 	background-color: white;
-	font-weight: 40px;
+	font-weight: 50px;
 }
 @font-face{
 	font-family: Arimo; 
@@ -45,13 +45,14 @@ img{
 	font-family: segoeB;
 }
 
+
 .bolds{
-	margin-left:20px;
+	
 	font-family:segoeB;
 	display: inline;
 }
 
 .info{
-	
 	font-family:segoe;
+	display: inline;
 }
