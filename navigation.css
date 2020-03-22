@@ -16,9 +16,10 @@ li {
 	text-align: center;
 }
 
-p{
-	margin-left: 20px;
+#alignment{
+	margin-left:20px;
 }
+
 li a {
 	transition: all 0.1s;
   	width: 10px;
