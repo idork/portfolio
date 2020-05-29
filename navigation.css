@@ -70,7 +70,7 @@ body{
 }
 
 #home-title{
-	color:white;
+	color:black;
 }
 
 /* Contact Navbar */
@@ -82,5 +82,21 @@ body{
 
 .contact-img{
 	width: 100px;
+	border: none;
 }
  
+
+/* Resume Section */
+#section-resume{
+	display: block;
+
+}
+
+#resume-img{
+	width: 550px;
+	display: block;
+	margin: 0 auto;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+}
