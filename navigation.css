@@ -89,14 +89,28 @@ body{
 /* Resume Section */
 #section-resume{
 	display: block;
+	height: 100vh;
+	background-image:linear-gradient(to right, rgb(254, 206, 171), rgb(232, 74, 95));
+}
 
+#resume-title{
+	color:white;
 }
 
 #resume-img{
 	width: 550px;
-	display: block;
-	margin: 0 auto;
+	position: relative;
+	margin: auto;
 	border-style: solid;
 	border-color: black;
 	border-width: 1px;
+
+}
+
+/*Media Quieries */
+
+@media screen and (min-width:500){
+	#resume-img{
+		width: 300px;
+	}
 }
