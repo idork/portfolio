@@ -3,7 +3,7 @@
 
 /* Body */
 body{
-	background-color: rgb(153,184,152);
+	background-color: white;
 	color:white;
 }
 #alignment{
@@ -16,6 +16,10 @@ body{
 	padding-top:.5px;
 	padding-bottom: .5px;
 	text-align: center;
+	box-shadow: 0px 1px 2px rgb(122, 109, 109);
+	position: fixed ;
+	z-index: 100;
+	width: 100%;
 }
 
 #nav-ul {
@@ -31,7 +35,7 @@ body{
   	font-family: segoe;
 	font-size: 20px;
   	font-weight: 700;
-	 display: inline;
+	display: inline;
 }
 /* Nav-Bar A Links */
 .a-nav{
@@ -52,3 +56,31 @@ body{
 	position: relative;
 	left: 200px;
 }
+
+/* Home Section */
+#section-home{
+	position: relative;
+	background-color: rgb(254, 206, 171);
+	height: 100vh;
+}
+
+#home-header{
+	position: relative;
+	top: 75px;
+}
+
+#home-title{
+	color:white;
+}
+
+/* Contact Navbar */
+
+#contacts-nav{
+	display: grid;
+	
+}
+
+.contact-img{
+	width: 100px;
+}
+ 
