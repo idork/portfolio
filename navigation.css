@@ -4,19 +4,19 @@
 /* Body */
 body{
 	background-color: white;
-	color:white;
+	color:rgb(104,134,197);
 }
 #alignment{
 	margin-left:20px;
 }
 /*Nav bar */
 #nav {
-	background-color: rgb(255,132,124);
+	background-color: rbg(249,249,249);
 	height: auto;
 	padding-top:.5px;
 	padding-bottom: .5px;
 	text-align: center;
-	box-shadow: 0px 1px 2px rgb(122, 109, 109);
+	box-shadow: 0px 0px 1px rgb(122, 109, 109);
 	position: fixed ;
 	z-index: 100;
 	width: 100%;
@@ -41,7 +41,7 @@ body{
 .a-nav{
 	transition: all 0.1s;
 	text-decoration: none;
-	color: white;
+	color:rgb(104,134,197);
 }
 .a-nav:hover {
   	letter-spacing: 1px;
@@ -60,7 +60,7 @@ body{
 /* Home Section */
 #section-home{
 	position: relative;
-	background-color: rgb(254, 206, 171);
+	background-color: rbg(249,249,249);
 	height: 100vh;
 }
 
@@ -70,14 +70,23 @@ body{
 }
 
 #home-title{
+	font-size: 3.5em;
+}
+
+#home-title{
 	color:black;
+	color: rgb(16,31,68);
 }
 
 /* Contact Navbar */
 
 #contacts-nav{
 	display: grid;
-	
+}
+
+.contact-nav{
+	display: inline-flex;
+
 }
 
 .contact-img{
@@ -91,7 +100,7 @@ body{
 	display: block;
 	height: 100vh;
 	width: 100%;
-	background-image:linear-gradient(to right, rgb(254, 206, 171), rgb(232, 74, 95));
+	background-image:linear-gradient(to right, rgb(2255, 204, 229),rgb(204,255,229));
 }
 
 #resume-title{
