@@ -9,6 +9,8 @@ body{
 #alignment{
 	margin-left:20px;
 }
+
+
 /*Nav bar */
 #nav {
 	background-color: rbg(249,249,249);
@@ -55,6 +57,9 @@ body{
 	margin: 20px;
 	position: relative;
 	left: 200px;
+	padding-top: 45px;
+	text-align: center;
+	float: center;
 }
 
 /* Home Section */
@@ -117,10 +122,18 @@ body{
 
 }
 
+
+/* Sections */
+#page{
+	position: relative;
+	margin: 0 auto;
+	max-width: 1200px;
+}
+
 /*Media Quieries */
 
-@media screen and (min-width: 400px){
+@media screen and (max-width: 600px){
 	#resume-img{
-		width: 300px;
+		width: 480px;
 	}
 }
