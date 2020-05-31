@@ -127,8 +127,8 @@ body{
 
 
 /*Media Quieries */
-@media only screen and (min-width: 380px) and (max-width: 485px){
+@media only screen and (max-width: 485px){
 	#resume-img{
-		width: 18.75em;
+		width: 18em;
 	}
 }
