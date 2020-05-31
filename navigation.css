@@ -120,9 +120,12 @@ body{
 	border-style: solid;
 	border-color: black;
 	border-width: 1px;
-
 }
 
+#resume-div{
+	width:100%;
+	text-align: center; /* th`is aligns header and cnct nav */
+}
 
 
 /*Media Quieries */
