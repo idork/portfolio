@@ -105,8 +105,6 @@ body{
 /* Resume Section */
 #section-resume{
 	height: 100vh;
-
-	
 }
 
 #resume-title{
@@ -130,7 +128,7 @@ body{
 
 /*Media Quieries */
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 1125px){
 	#resume-img{
 		width: 480px;
 	}
