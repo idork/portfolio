@@ -131,4 +131,8 @@ body{
 	#resume-img{
 		width: 18em;
 	}
+	.navbar{
+	display: block;
+
+	}
 }
