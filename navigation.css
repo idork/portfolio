@@ -222,4 +222,31 @@ footer{
 	display: inline;
 }
 
+footer{
+	font: .5em;
+}
+}
+
+@media only screen and (max-width: 485px){
+	/* Contact Nav Bar */
+/* Contact Nav Bar */
+#contacts-nav{
+	/*background-color: green;*/
+	position: relative;
+	margin: 0 auto;
+	height: auto;
+	width:100%;
+	text-align: center; /* th`is aligns header and cnct nav */
+
+}
+
+.contact-nav{
+	display:inline;
+	margin: 10px;
+}
+#contacts-ul{
+	padding-top: 6%;
+	display: block;
+	left: 20px;
+}
 }
