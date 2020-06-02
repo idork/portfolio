@@ -183,7 +183,7 @@ footer{
 @media only screen and (max-width: 485px){
 
 #home-header{
-	padding-top: 85px;
+	padding-top: 80px;
 }
 .navbar {
 	padding-top: 10px;
@@ -200,7 +200,7 @@ footer{
 /* Contact Nav Bar */
 #contacts-nav{
 	padding-top: 25px;
-
+	padding-left: 10px;
 }
 
 .contact-img{
