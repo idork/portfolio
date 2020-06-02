@@ -5,7 +5,8 @@
 body{
 	background-color: white;
 	color:rgb(104,134,197);
-
+	text-align: center;
+	margin: 0;
 }
 #alignment{
 	max-width: 1600px;
@@ -50,7 +51,7 @@ body{
 	transition: all 0.1s;
 	text-decoration: none;
 	color:#ccafaf;
-	text-shadow: 1px 1px black;
+	text-shadow: 0.5px 0.5px black;
 }
 .a-nav:hover {
   	letter-spacing: 1px;
@@ -104,10 +105,29 @@ body{
 	font-size: 1.7em;
 }
 
-/* Project Header */
+/* Project Section */
 
 #project-title{
 	color: #342b38;
+}
+
+div .box{
+	display: grid;
+	text-align: center;
+	margin: 0 auto;
+	grid-gap: 5em;
+	justify-items: center;
+	color: 
+}
+
+.column{
+	color:#562349;
+	font-weight: 600;
+	width: 15em;
+	height: 15em;
+	border: solid;
+	border-color: #4d3e3e;
+	
 }
 /* Resume Section */
 #section-resume{
@@ -142,4 +162,53 @@ body{
 	display: block;
 
 	}
+	
+	.column{
+		width: 13em;
+		height: 13em;
+		
+	}
+}
+
+@media only screen and (max-width: 485px){
+	#resume-img{
+		width: 18em;
+	}
+	.navbar{
+	display: block;
+
+	}
+	
+	.column{
+		width: 13em;
+		height: 13em;
+		
+	}
+/*Nav bar */
+
+#nav {
+	height: auto;
+	padding-top:.5px;
+	padding-bottom: .5px;
+	border-bottom: .1px solid rgb(215, 214, 220);
+	position: fixed;
+	width: 100%;
+}
+
+#nav-ul {
+	list-style-type: none;
+	padding-bottom:1px;
+	display: inline;
+}
+
+.navbar {
+  	text-indent:20px;
+	text-align: center;
+	padding: 20px;
+  	font-family: segoe;
+	font-size: 20px;
+  	font-weight: 700;
+	display: inline;
+}
+
 }
