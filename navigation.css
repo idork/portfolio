@@ -137,6 +137,7 @@ div .box{
 
 #resume-title{
 	color: #342b38;
+	padding-top:20px;
 }
 
 #resume-img{
@@ -146,6 +147,7 @@ div .box{
 	border-style: solid;
 	border-color: black;
 	border-width: 1px;
+	top: 40px;
 }
 
 #resume-div{
