@@ -173,7 +173,6 @@ footer{
 	display: block;
 
 	}
-	
 	.column{
 		width: 13em;
 		height: 13em;
@@ -182,42 +181,11 @@ footer{
 }
 
 @media only screen and (max-width: 485px){
-	#resume-img{
-		width: 18em;
-	}
-	.navbar{
-	display: block;
 
-	}
-	
-	.column{
-		width: 13em;
-		height: 13em;
-		
-	}
-/*Nav bar */
-
-#nav {
-	height: auto;
-	padding-top:.5px;
-	padding-bottom: .5px;
-	border-bottom: .1px solid rgb(215, 214, 220);
-	position: fixed;
-	width: 100%;
-}
-
-#nav-ul {
-	list-style-type: none;
-	padding-bottom:1px;
-	display: inline;
-}
 
 .navbar {
   	text-indent:20px;
-	text-align: center;
 	padding: 20px;
-  	font-family: segoe;
-	font-size: 20px;
   	font-weight: 700;
 	display: inline;
 }
@@ -228,13 +196,10 @@ footer{
 }
 
 @media only screen and (max-width: 485px){
-	/* Contact Nav Bar */
 /* Contact Nav Bar */
 #contacts-nav{
-	/*background-color: green;*/
+
 	position: relative;
-	margin: 0 auto;
-	height: auto;
 	width:100%;
 	text-align: center; /* th`is aligns header and cnct nav */
 
@@ -242,5 +207,7 @@ footer{
 
 .contact-img{
 	size: 1em;
+	width: 20px;
+	height: 20px;
 }
 }
