@@ -182,7 +182,9 @@ footer{
 
 @media only screen and (max-width: 485px){
 
-
+#home-header{
+	padding-top: 85px;
+}
 .navbar {
   	text-indent:20px;
 	padding: 20px;
