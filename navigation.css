@@ -198,10 +198,7 @@ footer{
 @media only screen and (max-width: 485px){
 /* Contact Nav Bar */
 #contacts-nav{
-
-	position: relative;
-	width:100%;
-	text-align: center; /* th`is aligns header and cnct nav */
+	padding-top: 15px;
 
 }
 
@@ -209,5 +206,6 @@ footer{
 	size: 1em;
 	width: 60px;
 	height: 60px;
+
 }
 }
