@@ -71,7 +71,7 @@ body{
 
 .contact-nav{
 	display:inline;
-	margin: 25px;
+	margin: 20px;
 }
 #contacts-ul{
 	padding-top: 6%;
@@ -200,6 +200,7 @@ footer{
 /* Contact Nav Bar */
 #contacts-nav{
 	padding-top: 25px;
+	margin: 15px;
 }
 
 .contact-img{
