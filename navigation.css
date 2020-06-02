@@ -240,13 +240,6 @@ footer{
 
 }
 
-.contact-nav{
-	display:inline;
-	margin: 10px;
-}
-#contacts-ul{
-	padding-top: 6%;
-	display: block;
-	left: 20px;
-}
+.contact-img{
+	size: 2em;
 }
