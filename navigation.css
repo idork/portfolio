@@ -4,7 +4,6 @@
 /* Body */
 body{
 	background-color: white;
-	color:rgb(104,134,197);
 	text-align: center;
 	margin: 0;
 }
@@ -106,7 +105,9 @@ body{
 }
 
 /* Project Section */
-
+#section-projects{
+	height: 100vh;
+}
 #project-title{
 	color: #342b38;
 }
@@ -152,6 +153,16 @@ div .box{
 	text-align: center; /* th`is aligns header and cnct nav */
 }
 
+footer{
+	border: solid;
+	border-width: 1px;
+	color: white;
+	background-color: black;
+	height: 5vh;
+	text-align: left;
+	font-size: .7em;
+	padding: 50px 20px 20px 20px;
+}
 
 /*Media Quieries */
 @media only screen and (max-width: 485px){
