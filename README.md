@@ -17,4 +17,4 @@ Github Color Icon: <a target="_blank" href="https://icons8.com/icons/set/github"
 
 LinkedIn Icon: <a target="_blank" href="https://icons8.com/icons/set/linkedin">LinkedIn icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
-Mail Icon: <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+Mail Icon: <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
