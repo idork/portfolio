@@ -65,7 +65,8 @@ h3 {
 .skill-row {
   margin: auto;
   width: 50%;
-  text-align: left;
+  text-align: center;
+  display: inline;
   line-height: 2;
 }
 
