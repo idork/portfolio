@@ -19,16 +19,20 @@ LinkedIn Icon: <a target="_blank" href="https://icons8.com/icons/set/linkedin">L
 
 CSS Icon: <a href="https://icons8.com/icon/107497/css3">CSS3 icon by Icons8</a>
 
-GIT Bash Icon: <div>Icons made by <a href="https://icon54.com/" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+GIT Bash Icon: Icons made by <a href="https://www.flaticon.com/authors/smalllikeart" title="smalllikeart">smalllikeart</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
-Python Icon: <a href="https://icons8.com/icon/121464/python">Python icon by Icons8</a>
+Python Icon: Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
-C++ Icon: <a href="https://icons8.com/icon/44328/c++">C++ icon by Icons8</a>
+C++ Icon: Icons made by <a href="https://www.flaticon.com/authors/iconixar" title="iconixar">iconixar</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
-JavaScript Icon: <a href="https://icons8.com/icon/gYCTehfTlYk5/javascript-logo">JavaScript Logo icon by Icons8</a>
+JavaScript Icon: Icons made by <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
-PHP Icon: <a href="https://icons8.com/icon/121463/php-logo">PHP Logo icon by Icons8</a>
+PHP Icon: Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
 SQL Icon: <div>Icons made by <a href="https://www.flaticon.com/authors/iconixar" title="iconixar">iconixar</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 Visual Studio Code Icon: <a href="https://icons8.com/icon/48455/visual-studio">Visual Studio icon by Icons8</a>
+
+HTML Icon: Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+CSS-Icon: Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
