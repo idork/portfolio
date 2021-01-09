@@ -14,14 +14,14 @@ h1 {
 h2 {
   font-size: 2.5rem;
   font-family: 'Montserrat', sans-serif;
-  color: #2d6187;
+  color: #37BEB0;
   font-weight: normal;
 
 }
 
 h3 {
   font-family: 'Montserrat', sans-serif;
-  color: #2d6187;
+  color: #05445E;
 }
 .top-container {
   background-color: #b2deec;
@@ -30,12 +30,27 @@ h3 {
 }
 
 .middle-container {
-  background-color: #e3dfc8;
+  background-color: #EAFBFF;
+}
+
+.mid-par{
+  color: #05445E;
 }
 
 .lower-container {
 
-  background-color: #ffdbc5;
+  background-color: #EAFBFF;
+}
+
+.bottom-container{
+  background-color: #EAFBFF
+}
+
+.mid-hr{
+  width: 50%;
+  height: 0px;
+  border: none;
+  border-top: 1px solid black;
 }
 
 .skill-row{
@@ -54,6 +69,13 @@ h3 {
   position: absolute;
   left: 300px;
   bottom: 500px;
+}
+
+.bot-hr{
+  width: 75%;
+  height: 0px;
+  border: none;
+  border-top: 1px solid black;
 }
 
 .pro {
@@ -78,9 +100,9 @@ h3 {
 .btn{
   text-decoration: none;
   font-weight: bold;
-  color: #000000;
+  color: #05445E;
 }
  .footer-link{
    text-decoration: none;
-   color: #000000;
+   color: #05445E;
  }
