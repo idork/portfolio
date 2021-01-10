@@ -114,7 +114,8 @@ footer{
   padding-top: 20px;
   height: 20%;
   color: #FFFFFF;
-  background-color:#0C2D48
+  background-color:#0C2D48;
+  padding-bottom: 20px;
 }
 .copyright{
   margin: 10;
