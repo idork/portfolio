@@ -85,6 +85,15 @@ h3 {
 
 /* Images */
 
+.grid-container{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-template-row: auto auto;
+  margin: 2rem;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 .skill-row {
   text-align: center;
   display: inline;
