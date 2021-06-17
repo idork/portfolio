@@ -133,6 +133,10 @@ footer{
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
 .skill-img{
-  width: 50%;
+  width: 75%;
+}
+.grid-container{
+  padding-left: 20px;
+  padding-right: 20px;
 }
 }
