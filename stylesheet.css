@@ -136,7 +136,7 @@ footer{
   width: 75%;
 }
 .grid-container{
-  padding-left: 20px;
-  padding-right: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 }
