@@ -137,6 +137,7 @@ footer{
   width: 80%;
 }
 .grid-container {
+  margin: 2rem;
   align-items: center;
 }
 }
