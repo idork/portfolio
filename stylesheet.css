@@ -136,7 +136,11 @@ footer{
   width: 80%;
 }
 .grid-container{
-  height: 75%;
+  width: 75%;
+  justify-content: center;
+  text-align: center;
+}
+.skill-row{
   justify-content: center;
   text-align: center;
 }
