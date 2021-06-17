@@ -132,15 +132,11 @@ footer{
   and (min-device-width: 320px)
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) and (min-width: 900px) {
+
 .skill-img{
   width: 80%;
 }
-.grid-container{
-  width: 75%;
-  justify-content: center;
-  text-align: center;
-}
-.skill-row{
+.grid-container {
   justify-content: center;
   text-align: center;
 }
