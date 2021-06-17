@@ -131,13 +131,13 @@ footer{
 @media only screen
   and (min-device-width: 320px)
   and (max-device-width: 480px)
-  and (-webkit-min-device-pixel-ratio: 2) {
+  and (-webkit-min-device-pixel-ratio: 2) and (min-width: 900px) {
 .skill-img{
-  width: 75%;
+  width: 60%;
 }
 .grid-container{
   width: 75%;
   justify-content: center;
-  text-align: center
+  text-align: center;
 }
 }
