@@ -138,5 +138,6 @@ footer{
 .grid-container{
   width: 75%;
   justify-content: center;
+  text-align: center
 }
 }
